@@ -5,7 +5,7 @@
   "main": "menu.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "pug src/pages -o docs --pretty -w"
+    "build": "pug src/pages -o build --pretty -w"
   },
   "keywords": [],
   "author": "",
